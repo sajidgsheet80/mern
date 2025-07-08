@@ -1,10 +1,2 @@
 
 this is for <i class="fa fa-times-rectangle" aria-hidden="true"></i>
-
-
-this is the new <i class="fa fa-text-height" aria-hidden="true"></i>
-<i class="fa fa-asl-interpretingasdf
-<i class="fa fa-adjustf
-adjustfas
-<i class="fa fa-deafasd
-fa" aria-hidden="true"></i>" aria-hidden="true"></i>" aria-hidden="true"></i>
