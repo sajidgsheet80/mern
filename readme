@@ -1,1 +1,25 @@
-welcome to github
+git init
+
+git add .
+
+
+git add filename.ext
+
+git commit -m "Update file with changes"
+
+
+git remote add origin https://github.com/sajidgsheet80/mern.git
+
+
+
+git push origin main
+
+
+
+
+example,
+git add index.html
+git commit -m "Updated index.html with new design"
+git push origin main
+
+
